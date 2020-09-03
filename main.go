@@ -7,4 +7,5 @@ func main() {
 	fmt.Println("tessting gitbot")
 	fmt.Println("now testing our custom message")
 	fmt.Println("testing slack secret deployed")
+	fmt.Println("didn't invite the bot to the channel so testing again")
 }
